@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item android:drawable="@drawable/shadow"/>
+        <item android:drawable="@drawable/shape_rounded_corners_5dp"
+            android:color="@color/main_color"
+            android:bottom="2dp"/>
+    </layer-list>
+

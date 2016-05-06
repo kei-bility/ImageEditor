@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ObjectRecognizer</string>
+    <string name="imageeditor_app_name">ImageEditor</string>
+    <string name="imageeditor2_app_name">ImageEditor2</string>
+    <string name="imageeditor3_app_name">ImageEditor3</string>
+    <string name="imageeditor4_app_name">ImageEditor4</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_help">Help</string>
+    <string name="action_save">Save</string>
+    <string name="action_open_album">Album</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_src_select">背景を選択...</string>
+    <string name="action_src_take">背景を撮影...</string>
+    <string name="action_show_maskimage">マスク画像を表示</string>
+    <string name="action_show_outputimage">セグメンテーション画像を表示</string>
+    <string name="action_blending">画像の合成！</string>
+    <string name="action_blending_save">合成画像を保存</string>
+    <string name="preference_menu_title">パラメータ設定</string>
+    <string name="preference_title">イテレーション回数</string>
+    <string name="preference_summary">ポアソン合成のイテレーション回数を設定</string>
+    <string name="item_100">100</string>
+    <string name="item_500">500</string>
+    <string name="item_1000">1000</string>
+    <string name="item_5000">5000</string>
+    <string name="title_activity_preference_sample">設定</string>
+
+</resources>

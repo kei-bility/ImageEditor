@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#3F51B5</color>
+    <color name="transparency_main_color">#643F51B5</color>
+    <color name="white">#ffffff</color>
+    <color name="light_blue">#ffe1cc</color>
+    <color name="button1_color">#800000</color>
+    <color name="button2_color">#008000</color>
+    <color name="button3_color">#808000</color>
+    <color name="button4_color">#000080</color>
+    <color name="button5_color">#800080</color>
+    <color name="button6_color">#008080</color>
+    <color name="button7_color">#808080</color>
+    <color name="button8_color">#400000</color>
+    <color name="button9_color">#C00000</color>
+    <color name="button10_color">#408000</color>
+    <color name="button11_color">#C08000</color>
+    <color name="button12_color">#400080</color>
+    <color name="button13_color">#C00080</color>
+    <color name="button14_color">#408080</color>
+    <color name="button15_color">#C08080</color>
+    <color name="button16_color">#004000</color>
+    <color name="button17_color">#804000</color>
+    <color name="button18_color">#00C000</color>
+    <color name="button19_color">#80C000</color>
+    <color name="button20_color">#004080</color>
+</resources>
