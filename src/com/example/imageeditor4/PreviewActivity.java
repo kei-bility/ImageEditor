@@ -139,8 +139,7 @@ public class PreviewActivity extends Activity implements View.OnClickListener {
 	 * POSTリクエストでbase64エンコードした画像データを計算サーバーへ送信
 	 */
 	private void postRequest(String base64) {
-		//final String url = "http://192.168.85.240:8080/segmentation/for_multilabel/";
-		final String url = "http://mcs-server-dev15.morphoinc.com:3000/segmentation/for_multilabel/";
+		final String url = "http://localhost:8080/segmentation/for_multilabel/";
 		final String tag_json_obj = "json_obj_req_tag";
 
 		try {
